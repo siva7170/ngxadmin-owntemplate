@@ -1,4 +1,4 @@
-# Nbadmin1
+# Nbadmin1 (Fully Customized of ngx admin)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.5.
 
